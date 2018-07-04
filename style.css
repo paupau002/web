@@ -1,0 +1,11 @@
+.colortexto{
+color:red;
+font-size: 70px;
+text-align: center;
+font-style: italic;
+font-family: Helvetica
+}
+
+#imageOwner:{
+border-radius: 2000px;
+}
